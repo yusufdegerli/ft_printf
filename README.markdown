@@ -127,9 +127,4 @@ Eğer bu projeye katkıda bulunmak isterseniz:
 ## Lisans
 Bu proje, [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
-## İletişim
-Sorularınız veya geri bildirimleriniz için:
-- GitHub: [kullanici-adi]
-- E-posta: [e-posta-adresi] (isteğe bağlı)
-
 **Not**: Bu README, 42 Network'ün ft_printf projesi için hazırlanmıştır. Projenizi 42 kurallarına uygun şekilde teslim ediyorsanız, lütfen 42'nin GitHub paylaşım politikalarını kontrol edin.
