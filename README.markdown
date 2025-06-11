@@ -3,8 +3,6 @@
 ## Proje Hakkında
 **ft_printf**, 42 Network müfredatında yer alan bir C programlama projesidir. Bu proje, standart C kütüphanesi fonksiyonu olan `printf`'in işlevselliğini taklit eden bir `ft_printf` fonksiyonu geliştirmeyi amaçlar. Proje, değişken argümanlar (variadic arguments) ile çalışmayı, string formatlamayı ve hafıza yönetimini öğrenmek için tasarlanmıştır. Kendi `ft_printf` fonksiyonumu yazarak, C programlama dilinde modüler kod yazımı, hata yönetimi ve algoritmik düşünme becerilerimi geliştirdim.
 
-Bu proje, 42 İstanbul/Kocaeli kampüslerinde temel müfredatın bir parçası olarak tamamlanmıştır.
-
 ## Özellikler
 `ft_printf` fonksiyonu, aşağıdaki format belirteçlerini ve bayrakları destekler:
 
