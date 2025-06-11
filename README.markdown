@@ -27,8 +27,6 @@
 - Ek format belirteçleri: `%f` (kayan noktalı sayı), `%n` (yazdırılan karakter sayısını bir pointer'a kaydeder).
 - Diğer: Uzunluk belirteçleri (`hh`, `h`, `l`, `ll`).
 
-**Not**: Bonus kısmı, projenizin kapsamına bağlı olarak eklendi veya eklenmedi. Eğer bonuslar implemente edildiyse, lütfen belirtin, README'yi güncelleyebilirim.
-
 ## Kurulum ve Kullanım
 
 ### Gereksinimler
